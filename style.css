@@ -1,0 +1,36 @@
+img {
+	width: 350px;
+	margin: 20px;
+	border-color: red;
+	border-width: 10px;
+	border-syle: solid;
+	border-radius: 100px;
+}
+
+nav{
+	float: left;
+	max-width: 600px;
+	margin: 0;
+	padding: 1em;
+}
+
+#box1{
+	width: 350px;
+	height: 30px;
+	padding-left: 80px;
+	background-color: red;
+	border-radius: 10px;
+}
+
+
+#box2{
+	width: 350px;
+	height: 30px;
+	padding-left: 80px;
+	background-color: red;
+	border-radius: 10px;
+}
+
+body {
+	background-image: url("file:///C:/Users/ryan6908/Downloads/body%20image.v1.jpg");
+	background-repeat: no-repeat;
